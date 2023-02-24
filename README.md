@@ -79,9 +79,9 @@ You will be able to view
 * 52 Pass
 * 12 Fails
 
-
+![AllureResultSnapshot](https://github.com/andytester247/OppenheimerQATechChallenge/blob/main/allure-report/images/2023-02-24%2010_08_00-Allure%20Report.png "Allure Test Result Snapshot")
 * Refers to BugReports.md to find out more.
-
+* 
 # Improvement
 1. create script to run jar file when running the testsuite. 
 2. To find out how to run the testsuite in parallel
